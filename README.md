@@ -1,4 +1,4 @@
-![logo](https://github.com/AfrozTech-Dev/AfrozTech-Dev/blob/main/Yellow%20%26%20Black%20Simple%20Profile%20LinkedIn%20Banner.png)
+![logo] (https://github.com/AfrozTech-Dev/AfrozTech-Dev/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm AFROZ BADRA</h1>
 <h3 align="center">A passionate Website developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
