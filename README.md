@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT,FRAMWORKS.**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/afrozbadra2006](www.linkedin.com/in/afrozbadra2006)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/afrozbadra2006]([https://www.linkedin.com/in/afrozbadra2006/])
 
 - 📫 How to reach me **affobadra2006@gmail.com**
 
-- ⚡ Fun fact **I Thing I Am Funny and Serious About My Goals😎**
+- ⚡ Fun fact **I Thing I Am Funny 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
